@@ -21,16 +21,16 @@ Here are the languages, frameworks, and databases I have experience with:
 
 | Type | Languages | Proficiency |
 | :--- | :--- | :---: |
-| **Backend** | C, C++, C#, Java, **Python**, PHP | ⭐️⭐️⭐️ |
-| **Frontend** | HTML, CSS, **JavaScript (JS)** | ⭐️⭐️⭐️ |
+| **Backend** | C, C++, C#, Java, Python, PHP | ⭐️⭐️⭐️ |
+| **Frontend** | HTML, CSS, JavaScript (JS) | ⭐️⭐️ |
 
 #### 📚 Frameworks & Ecosystem
 
 | Category | Tools Used | Experience |
 | :--- | :--- | :--- |
-| **Frontend** | **React**, **Angular** | Built several basic SPAs (Single Page Applications) |
-| **Backend** | **Laravel** (PHP) | Used for creating APIs and web portals |
-| **Database** | SQL Server, **PostgreSQL** | Basic CRUD operations and schema design |
+| **Frontend** | React, Angular | Built several basic SPAs (Single Page Applications) |
+| **Backend** | Laravel (PHP) | Used for creating APIs and web portals |
+| **Database** | SQL Server, PostgreSQL | Basic CRUD operations and schema design |
 
 ---
 
@@ -52,7 +52,7 @@ Let's collaborate! I'm always open to new project ideas and discussions.
 | Platform | Handle/Link |
 | :--- | :--- |
 | **📧 Email** | khangham3904@gmail.com |
-| **🔗 LinkedIn** | (https://www.linkedin.com/in/pkhang24/) |
+| **🔗 LinkedIn** | https://www.linkedin.com/in/pkhang24/ |
 | **🌐 Portfolio/Website** | *Coming Soon...* |
 
 ---
