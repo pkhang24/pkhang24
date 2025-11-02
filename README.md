@@ -1,40 +1,58 @@
-💻 Hi there! Welcome to my corner of GitHub! ✨
-Hello! I'm a passionate Student, a budding Developer, and a beginner Designer eager to create impactful and visually appealing digital products. Currently, I'm at the start of my journey, always ready to learn and seek new challenges to sharpen my skills.
+# 💻 Hi there! Welcome to my corner of GitHub! ✨
 
-🚀 Who Am I?
-Role: Student 🎓 | Junior Developer 👨‍💻 | Designer (Newbie) 🎨
+> Hello! I'm a passionate **Student**, a budding **Developer**, and a beginner **Designer** eager to create impactful and visually appealing digital products. I am currently **seeking challenges** to sharpen my skills.
 
-Goal: To build useful web and mobile applications with user-friendly and aesthetically pleasing User Interfaces (UI/UX).
+---
 
-Motto: Write clean code, design thoughtfully, and commit to continuous improvement!
+### 🚀 Who Am I?
 
-🛠️ My Toolset & Skills
+| Aspect | Detail | Motto |
+| :--- | :--- | :--- |
+| **Role** | Student 🎓 / Junior Developer 👨‍💻 | Code clean, design sharp, and never stop learning! |
+| **Focus** | Full-stack Web Development (Frontend & Backend) | **Building efficient solutions** with user-friendly UI/UX. |
+
+---
+
+### 🛠️ My Toolset & Skills
+
 Here are the languages, frameworks, and databases I have experience with:
 
-🌐 Programming & Web Languages
-Type	                Tool/Language	                   Proficiency
-Backend Languages	    C, C++, C#, Java, Python, PHP    Basic/Intermediate
-Frontend Languages    HTML, CSS, JavaScript (JS)       Basic/Intermediate
+#### 🌐 Core Languages
 
-📚 Libraries & Frameworks
-Frontend: React, Angular (Used for basic project development).
+| Type | Languages | Proficiency |
+| :--- | :--- | :---: |
+| **Backend** | C, C++, C#, Java, **Python**, PHP | ⭐️⭐️⭐️ |
+| **Frontend** | HTML, CSS, **JavaScript (JS)** | ⭐️⭐️⭐️ |
 
-Backend (PHP): Laravel (Used for developing web applications).
+#### 📚 Frameworks & Ecosystem
 
-🗄️ Databases
-SQL Server
+| Category | Tools Used | Experience |
+| :--- | :--- | :--- |
+| **Frontend** | **React**, **Angular** | Built several basic SPAs (Single Page Applications) |
+| **Backend** | **Laravel** (PHP) | Used for creating APIs and web portals |
+| **Database** | SQL Server, **PostgreSQL** | Basic CRUD operations and schema design |
 
-PostgreSQL
+---
 
-🌱 Connect With Me
-I'm always looking for opportunities to collaborate on exciting projects and connect with like-minded individuals. Feel free to reach out via:
+### 💡 What I'm Learning Next (Roadmap)
 
-📧 Email: khangoham3904@gmail.com
+I am committed to continuously improving my skill set.
 
-🔗 LinkedIn: (https://www.linkedin.com/in/pkhang24/)
+- [ ] Dive deeper into **TypeScript** for better type safety.
+- [ ] Understand **Docker** and basic containerization.
+- [ ] Explore **Advanced SQL** techniques (Stored Procedures, Indexing).
+- [ ] Practice advanced **UI/UX principles** (Figma, accessibility).
 
-🌐 Portfolio/Website: Coming soon...
+---
 
-"The journey of a thousand miles begins with a single step." I am striving every day to turn ideas into code and designs into reality.
+### 🌱 Connect With Me
 
-Thanks for stopping by!
+Let's collaborate! I'm always open to new project ideas and discussions.
+
+| Platform | Handle/Link |
+| :--- | :--- |
+| **📧 Email** | khangham3904@gmail.com |
+| **🔗 LinkedIn** | (https://www.linkedin.com/in/pkhang24/) |
+| **🌐 Portfolio/Website** | *Coming Soon...* |
+
+---
