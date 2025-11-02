@@ -1,4 +1,5 @@
-## Hi there 👋
+💻 Hi there! Welcome to my corner of GitHub! ✨
+Hello! I'm a passionate Student, a budding Developer, and a beginner Designer eager to create impactful and visually appealing digital products. Currently, I'm at the start of my journey, always ready to learn and seek new challenges to sharpen my skills.
 
 <!--
 **pkhang24/pkhang24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
