@@ -31,6 +31,7 @@ Here are the languages, frameworks, and databases I have experience with:
 | **Frontend** | React, Angular | Built several basic SPAs (Single Page Applications) |
 | **Backend** | Laravel (PHP) | Used for creating APIs and web portals |
 | **Database** | SQL Server, PostgreSQL | Basic CRUD operations and schema design |
+| **Design** | Figma, Photoshop | Design skills are average but not very good |
 
 ---
 
