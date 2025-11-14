@@ -8,7 +8,7 @@
 
 | Aspect | Detail | Motto |
 | :--- | :--- | :--- |
-| **Role** | Student 🎓 / Junior Developer 👨‍💻 | Code clean, design sharp, and never stop learning! |
+| **Role** | Student  / Fresher Developer  | Code, design and never stop learning! |
 | **Focus** | Full-stack Web Development (Frontend & Backend) | **Building efficient solutions** with user-friendly UI/UX. |
 
 ---
